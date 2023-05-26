@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "burgerlab",
+    "slug": "snack-cd568d52-387a-4f37-9d39-d16db9ba4e5f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.burgerlab"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
